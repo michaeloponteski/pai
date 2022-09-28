@@ -1,4 +1,4 @@
-function dzielenie(a, b) {
+module.exports = function dzielenie(a, b) {
 if (b==null){
 b=2
 }
@@ -13,11 +13,5 @@ b=2
     }
   }
 }
-    console.log(dzielenie("a"));
-	console.log(dzielenie(5));
-	console.log(dzielenie(6));
-    console.log(dzielenie(8,4));
-	console.log(dzielenie(7,3));
-	//console.log(dzielenie(a));
-    console.log(dzielenie('b'));
+
   

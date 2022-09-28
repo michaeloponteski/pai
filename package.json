@@ -1,0 +1,20 @@
+{
+  "name": "pai1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dzielenie.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeloponteski/pai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeloponteski/pai/issues"
+  },
+  "homepage": "https://github.com/michaeloponteski/pai#readme"
+}
